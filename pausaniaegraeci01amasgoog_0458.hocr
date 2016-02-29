@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pausaniaegraeci01amasgoog_0458.png"; bbox 0 0 2600 4617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 241 1687 1273 1716">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 241 1687 1273 1716">
+     <span class='ocr_line' id='line_1_1' title="bbox 241 1687 1273 1716; baseline 0.002 -6"><span class='ocrx_word' id='word_1_1' title='bbox 241 1687 1273 1716; x_wconf 49' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 605 1709 968 1850">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 605 1709 968 1850">
+     <span class='ocr_line' id='line_1_2' title="bbox 605 1709 968 1850; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 605 1709 968 1850; x_wconf 60' lang='lat' dir='ltr'><strong>filvslw&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 290 1955 1225 2004">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 290 1955 1225 2004">
+     <span class='ocr_line' id='line_1_3' title="bbox 290 1955 1225 2004; baseline 0.001 -5"><span class='ocrx_word' id='word_1_3' title='bbox 290 1957 504 2001; x_wconf 56' lang='lat' dir='ltr'><strong>mmm?</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 523 1955 779 2004; x_wconf 69' lang='lat' dir='ltr'><strong>nummu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 805 1959 1005 2002; x_wconf 64' lang='lat' dir='ltr'><strong>nomm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1029 1957 1225 2001; x_wconf 68' lang='lat' dir='ltr'><strong>‘numn-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1304 4617">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1304 4617">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1304 4617; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1304 4617; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

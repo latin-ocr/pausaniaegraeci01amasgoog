@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pausaniaegraeci01amasgoog_0161.png"; bbox 0 0 2600 4617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 73 1240 1087 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 73 1240 1087 1334">
+     <span class='ocr_line' id='line_1_1' title="bbox 73 1240 1087 1334; baseline 0.008 -15"><span class='ocrx_word' id='word_1_1' title='bbox 73 1260 77 1268; x_wconf 82' lang='grc'><em>“</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 251 1240 860 1334; x_wconf 66' lang='grc' dir='ltr'><strong>ΠΑΤΣΑΙΝΙΟΤ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1082 1280 1087 1290; x_wconf 85' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 32 1449 1075 1676">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 32 1449 1075 1676">
+     <span class='ocr_line' id='line_1_2' title="bbox 32 1449 1075 1676; baseline 0.015 -26"><span class='ocrx_word' id='word_1_4' title='bbox 32 1535 438 1658; x_wconf 72' lang='grc' dir='ltr'>ΕΛΛΑΔΟΣ</span> <span class='ocrx_word' id='word_1_5' title='bbox 483 1449 1075 1676; x_wconf 62' lang='grc' dir='ltr'>ΠΕΡΙΗΓΗΣΕΩΣ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 340 1842 771 1940">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 340 1842 771 1940">
+     <span class='ocr_line' id='line_1_3' title="bbox 340 1842 771 1940; baseline 0.021 -11"><span class='ocrx_word' id='word_1_6' title='bbox 340 1842 771 1940; x_wconf 81' lang='grc' dir='ltr'><strong>ΜΕΣΣΗΝΙΚΑ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 477 2249 701 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 477 2249 701 2308">
+     <span class='ocr_line' id='line_1_4' title="bbox 631 2249 635 2260; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 631 2249 635 2260; x_wconf 58' lang='lat' dir='ltr'>x</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 477 2281 701 2308; baseline 0.022 -10"><span class='ocrx_word' id='word_1_8' title='bbox 477 2281 633 2302; x_wconf 49' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 696 2301 701 2308; x_wconf 88' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1304 4617">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1304 4617">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1304 4617; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1304 4617; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
